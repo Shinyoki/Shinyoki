@@ -10,6 +10,8 @@
 我叫 泗水，是一名全栈程序员，兴趣爱好是通过代码实现自己喜欢的程序。目前会用Vue设计前端，Spring MVC设计后端。对Material Design风格的Android开发略有兴趣，目前能够使用XML和Compose UI声明程序的界面。以及了解Spigot插件开发，能够使用Java编写简单的插件。
 </i>
 
+	</br>
+	
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Shinyoki)]()
 
 </strong>
@@ -41,7 +43,7 @@
     <img src="https://img.shields.io/badge/vuetify-7bc6ff?style=for-the-badge&logo=vuetify&logoColor=white"/>
  </div>
 
-<h6>👋熟练中...</h6>
+<h6>👋练习中...</h6>
 
 <div>
     <img src="https://img.shields.io/badge/spring cloud-green?style=for-the-badge&logo=icloud&logoColor=white"/>
