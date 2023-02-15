@@ -10,7 +10,7 @@
 我叫 泗水，是一名全栈程序员，兴趣爱好是通过代码实现自己喜欢的程序。目前会用Vue设计前端，Spring MVC设计后端。对Material Design风格的Android开发略有兴趣，目前能够使用XML和Compose UI声明程序的界面。以及了解Spigot插件开发，能够使用Java编写简单的插件。
 </i>
 
-	</br>
+
 	
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Shinyoki)]()
 
